@@ -1,0 +1,14 @@
+{
+  "name": "signupsheet",
+  "version": "1.0.0",
+  "description": "signup sheet demo for dbs apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jtay",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^5.16.0"
+  }
+}
